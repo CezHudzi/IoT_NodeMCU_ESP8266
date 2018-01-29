@@ -50,3 +50,6 @@ Our data:
 
 
 ![Alt text](Images/chart.jpg?raw=true "Chart")
+
+## Trendline
+  Used regression line
