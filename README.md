@@ -29,3 +29,15 @@ Temperature and Humidity Sensor. Here are the pin definitions:
 ## Simple diagram of system:
 
 ![Alt text](Images/s.png?raw=true "Scheme")
+
+## APP
+
+1) Install Node JS
+
+2) Install Express via mpm
+
+3) Install Mongo
+
+Our data:
+
+![Alt text](Images/DB_console.png?raw=true "DB_console")
