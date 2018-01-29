@@ -41,3 +41,12 @@ Temperature and Humidity Sensor. Here are the pin definitions:
 Our data:
 
 ![Alt text](Images/DB_console.png?raw=true "DB_console")
+
+
+# Install FusionChart Libery
+
+![Alt text](Images/sys.jpg?raw=true "Scheme")
+
+
+
+![Alt text](Images/chart.jpg?raw=true "Chart")
