@@ -28,5 +28,28 @@ Temperature and Humidity Sensor. Here are the pin definitions:
 
 ## Simple diagram of system:
 
-![Alt text](Images/scheme.png?raw=true "Scheme")
+![Alt text](Images/s.png?raw=true "Scheme")
 
+
+
+## APP
+
+1) Install Node.js and ExpressJS
+
+2) Install MongoDB 
+
+  Our data:
+  
+  
+![Alt text](Images/DB_console.png?raw=true "DB_console.")
+
+3) Install FusionCharts libery
+
+![Alt text](Images/sys.jpg?raw=true "Schemat.")
+
+![Alt text](Images/chart.jpg?raw=true "Chart.")
+
+
+## Trendline
+
+Using regression line
