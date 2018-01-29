@@ -42,3 +42,13 @@ Temperature and Humidity Sensor. Here are the pin definitions:
 
 ![Alt text](Images/scheme.png?raw=true "Scheme")
 
+
+##APP
+
+![Alt text](Images/DB_console.png?raw=true "DB_console.png")
+
+
+![Alt text](Images/sys.jpg?raw=true "sys.jpg")
+
+
+![Alt text](Images/chart.jpg?raw=true "chart.jpg")
