@@ -39,7 +39,7 @@ Temperature and Humidity Sensor. Here are the pin definitions:
 3) Install Mongo
 
 Our data:
-
+,,
 ![Alt text](Images/DB_console.png?raw=true "DB_console")
 
 
